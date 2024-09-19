@@ -11,7 +11,7 @@ BUS FINDER the outlook of this project states the particular timing of the bus a
 - **Beautiful Sleek UI** 
 - **Responsive Design**
 
-- 
+
 ## Technologies Used
 
 - **HTML:** For structuring the web app.
