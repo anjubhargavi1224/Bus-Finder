@@ -8,8 +8,8 @@ BUS FINDER the outlook of this project states the particular timing of the bus a
 
 ## Features
 
-- **Beautiful Sleek UI:** 
-- **Responsive Design:**
+- **Beautiful Sleek UI** 
+- **Responsive Design**
 
 - 
 ## Technologies Used
